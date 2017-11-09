@@ -1,2 +1,5 @@
 # java-appointment
-Java program that allows you to create an appointment, uses Swing for the GUI, focuses on OOP and Data Structures 
+Final Assignment for CPS209
+Java program that allows you to create an appointment with complex features
+uses Swing for the GUI, focuses on OOP and Data Structures 
+
